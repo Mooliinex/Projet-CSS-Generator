@@ -34,6 +34,6 @@ Name of the generated stylesheet. If blank, the default name is « style.css ».
 
 <div align="center">
 	<br>
-	<img src="Description du projet/sprite.png" width="800" height="400">
+	<img src="Description du projet/sprite.png">
 	<br>
 </div>
